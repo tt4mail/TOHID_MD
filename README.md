@@ -26,7 +26,7 @@ src="https://cardivo.vercel.app/api?name=TOHID%20_%20MD%20V2&description=🥂THE
 --------
 
 <p align="center">
-<a href="https://github.com/Tohidkhan6332/"><img title="Followers" src="https://img.shields.io/github/followers/Tohidkha6332?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tohidkhan6332?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Tohidkha6332?color=blue&style=flat-square"></a>
 <a href="https://github.com/Tohidkhan6332/TOHID_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tohidkhan6332/TOHID_MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Tohidkhan6332/TOHID_MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tohidkhan6332/TOHID_MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Tohidkhan6332/TOHID_MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Tohidkhan6332/TOHID_MD?style=flat-square&color=blue"></a>
@@ -103,7 +103,7 @@ src="https://cardivo.vercel.app/api?name=TOHID%20_%20MD%20V2&description=🥂THE
 
 ----------
 
-<a href="https://youtube.com/@Tohidkhan_6332"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://youtube.com/@tohidkhan_6332?si=f1hxIhv2ijpalqGl"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 --------------
 
@@ -118,7 +118,7 @@ src="https://cardivo.vercel.app/api?name=TOHID%20_%20MD%20V2&description=🥂THE
 -------------
 
 <p align="center">
-   <a href="https://youtube.com/@Tohidkhan_6332"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="https://youtube.com/@tohidkhan_6332?si=f1hxIhv2ijpalqGl"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
@@ -251,7 +251,7 @@ jobs:
 -------------
 
 <p align="center">
-   <a href="https://youtube.com/Tohidkhan_6332"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="https://youtube.com/@tohidkhan_6332?si=f1hxIhv2ijpalqGl"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
