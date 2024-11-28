@@ -15,7 +15,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=TOHID%20_%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20TOHIF%20KHAN%20KING%20OF%20KINGS%20OWNER%20TOHID%20KHAN%20AND%20SAHIB%20KHAN♥️&image=https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=TOHID%20_%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20TOHID%20KHAN%20KING%20OF%20KINGS%20OWNER%20TOHID%20KHAN%20AND%20SAHIB%20KHAN♥️&image=https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
@@ -265,7 +265,7 @@ jobs:
 
 ---------
 
-![IMG-20240330-WA0000](https://github.com/user-attachments/assets/62d3bffd-d1ec-4cb9-a5b1-28b745b90a90)
+![IMG-20240330-WA0000](https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg)
 
 -------------------
 
