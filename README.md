@@ -26,7 +26,7 @@ src="https://cardivo.vercel.app/api?name=TOHID%20_%20MD%20V2&description=🥂THE
 --------
 
 <p align="center">
-<a href="https://github.com/Tohidkhan6332?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Tohidkha6332?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tohidkhan6332/"><img title="Followers" src="https://img.shields.io/github/followers/Tohidkhan6332?color=blue&style=flat-square"></a>
 <a href="https://github.com/Tohidkhan6332/TOHID_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tohidkhan6332/TOHID_MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Tohidkhan6332/TOHID_MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tohidkhan6332/TOHID_MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Tohidkhan6332/TOHID_MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Tohidkhan6332/TOHID_MD?style=flat-square&color=blue"></a>
