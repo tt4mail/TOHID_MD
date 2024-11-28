@@ -15,7 +15,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=TOHID%20_%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20TOHIF%20KHAN%20KING%20OF%20KINGS%20OWNER%20TOHID%20KHAN%20AND%20SAHIB%20KHAN♥️&image=https://telegra.ph/file/e47b23583ab7ec42d58df.jpg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=TOHID%20_%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20TOHIF%20KHAN%20KING%20OF%20KINGS%20OWNER%20TOHID%20KHAN%20AND%20SAHIB%20KHAN♥️&image=https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
@@ -51,7 +51,7 @@ src="https://cardivo.vercel.app/api?name=TOHID%20_%20MD%20V2&description=🥂THE
 
 ----------------
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Tohidkhan6332%2TOHID_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Tohidkhan6332/TOHID_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
 ![forks](https://img.shields.io/github/forks/Tohidkhan6332/TOHID_MD?label=Forks&style=social)
@@ -60,7 +60,7 @@ src="https://cardivo.vercel.app/api?name=TOHID%20_%20MD%20V2&description=🥂THE
 ![stars](https://img.shields.io/github/stars/Tohidkhan6332/TOHID_MD?style=social)
 
 
-[![FORK TOHID_MD](https://img.shields.io/badge/FORK%20-SILENT%20SOBX%20MD-white)](https://github.com/Tohidkhan6332/TOHID_MD/fork)
+[![FORK TOHID_MD](https://img.shields.io/badge/FORK%20-TOHID%20_%20MD-white)](https://github.com/Tohidkhan6332/TOHID_MD/fork)
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
