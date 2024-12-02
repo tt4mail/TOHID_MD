@@ -1,23 +1,7 @@
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                      
-//                                                     𝐓𝐎𝐇𝐈𝐃_𝐊𝐇𝐀𝐍                                                 
-//                                                                                                      
-//                                                         Ｖ：4.0                                                       
-//                                                                                                      
-//                                                                                                        
-//              ████████╗░█████╗░██╗░░██╗██╗██████╗░  ██╗░░██╗██╗░░██╗░█████╗░███╗░░██╗
-//              ╚══██╔══╝██╔══██╗██║░░██║██║██╔══██╗  ██║░██╔╝██║░░██║██╔══██╗████╗░██║
-//              ░░░██║░░░██║░░██║███████║██║██║░░██║  █████═╝░███████║███████║██╔██╗██║
-//              ░░░██║░░░██║░░██║██╔══██║██║██║░░██║  ██╔═██╗░██╔══██║██╔══██║██║╚████║
-//              ░░░██║░░░╚█████╔╝██║░░██║██║██████╔╝  ██║░╚██╗██║░░██║██║░░██║██║░╚███║
-//              ░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝╚═╝╚═════╝░  ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝                
-//                                                                                                                       
-//                                                                                                      
-//                                                                                                                   
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
-//created by Tohid Khan 🕵
-//contact me 917849917350 ♻️
-//© Copy coder alert ⚠
+/*created by Mr Tohid 🕵
+contact me 917849917350 ♻️
+© Copy coder alert ⚠
+*/
 
 const {
 default: makeWASocket,
@@ -38,6 +22,8 @@ const P = require('pino')
 const config = require('./config')
 const qrcode = require('qrcode-terminal')
 const StickersTypes = require('wa-sticker-formatter')
+const FormData = require('form-data');
+const { shannzCdn } = require('./lib/shannzCdn')
 const util = require('util')
 const { sms,downloadMediaMessage } = require('./lib/msg')
 const axios = require('axios')
@@ -69,7 +55,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("CONNECTING TOHID_MD WHATSAPP BOT🧬...");
+console.log("CONNECTING TOHID_MD BOT🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -99,26 +85,29 @@ require("./plugins/" + plugin);
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
 console.log('TOHID_MD CONNECTED TO WHATSAPP ENJOY ✅')
 
-let up = `*╭──────────────●●►*
-> *➺ᴛᴏʜɪᴅ_ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴛᴏʜɪᴅ ᴋʜᴀɴ✅*
+let up = `
+*[ •  TOHID_MD - STARTED‎ • ]*
+*╭┈───────────────•*
+*│  ◦* *_Congratulations Your Bot Active Successfully_*
+*│  ◦*
+*│  ◦* *❁ ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ❁*
+*│  ◦*
+*│  ◦* *https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T
+*│  ◦*
+*│  ◦* *❁ ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ❁*
+*│  ◦*
+*│  ◦* *https://youtube.com/@Tohidkhan_6332*
+*╰┈───────────────•*
+*[ •  B O T  - R E P O ‎ • ]*
+*╭┈───────────────•*
+*│✫➠ - 🌐URL:* *https://github.com/Tohidkhan6332/TOHID_MD*
+*╰┈───────────────•*
+*YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: [${prefix}]*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ᴛᴏʜɪᴅ_ᴍᴅ❁*
-
-*https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T*
-
-> *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ᴛᴏʜɪᴅ_ᴍᴅ❁*
-
-*https://youtube.com/@Tohidkhan_6332*
-
-*╭⊱✫🔮 TOHID_MD 🔮✫⊱╮*
-*│✫➠ - 📂REPOSITORY NAME:* *TOHID_MD*
-*│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
-*│✫➠ - 🛡️OWNER:* *MR TOHID*
-*│✫➠ - 🌐URL:* *https://github.com/Tohidkhan6333/TOHID_MD*
-
-*YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
-
-*╰──────────────●●►*`;
+*•────────────•⟢*
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴛᴏʜɪᴅ ᴋʜᴀɴ
+*•────────────•⟢*
+`;
 conn.sendMessage(conn.user.id, { image: { url: `https://i.imgur.com/M1BzE37.jpeg` }, caption: up })
 
 }
@@ -184,6 +173,40 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
                 return conn.sendMessage(jid, { audio: await getBuffer(url), caption: caption, mimetype: 'audio/mpeg', ...options }, { quoted: quoted, ...options })
               }
             }
+//AUto Read Function By @Um4r719
+conn.ev.on('messages.upsert', async (mek) => {
+    try {
+        mek = mek.messages[0];
+        if (!mek.message) return;
+
+        // Handle ephemeral messages
+        mek.message = (getContentType(mek.message) === 'ephemeralMessage') 
+            ? mek.message.ephemeralMessage.message 
+            : mek.message;
+
+        // Auto-read functionality
+        if (config.READ_MESSAGE === 'true') {
+            await conn.readMessages([mek.key]);  // Mark message as read
+            console.log(`Marked message from ${mek.key.remoteJid} as read.`);
+        }
+
+        // Continue with your existing message processing logic here...
+        const m = sms(conn, mek);
+        const type = getContentType(mek.message);
+        const content = JSON.stringify(mek.message);
+        const from = mek.key.remoteJid;
+        const isGroup = from.endsWith('@g.us');
+        const sender = mek.key.fromMe 
+            ? conn.user.id.split(':')[0] + '@s.whatsapp.net' 
+            : mek.key.participant || mek.key.remoteJid;
+
+        // More code...
+    } catch (err) {
+        console.error('Error in message handler:', err);
+    }
+});
+
+
         
 //================ownerreact==============
 if(senderNumber.includes("917849917350")){
@@ -194,12 +217,12 @@ if(senderNumber.includes("918930358452")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("918814809147")){
+if(senderNumber.includes("918053080756")){
 if(isReact) return
 m.react("🦋")
    }
 
-if(senderNumber.includes("447783770746")){
+if(senderNumber.includes("917849917350")){
 if(isReact) return
 m.react("🎀")
    }
