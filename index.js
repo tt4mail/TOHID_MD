@@ -214,7 +214,7 @@ const port = process.env.PORT || 9090;
   }
   const udp = botNumber.split('@')[0];
     const tohid = ('917849917350');
-    let isCreator = [udp, ali, config.DEV]
+    let isCreator = [udp, tohid, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
 
