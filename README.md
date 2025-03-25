@@ -1,209 +1,108 @@
----------
 
-### <br>  ❖ TOHID_MD ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY TOHID KHAN`** 🔰
+#### MULTI DEVICE WHATSAPP BOT TOHID_Md | STILL MANY HIDDEN COMMANDS
 
-----------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
--------
-
- <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`TOHID+_+MD+WHATSAPP+BOT`" alt="">
-
-------------
-
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=TOHID%20_%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20TOHID%20KHAN%20KING%20OF%20KINGS%20OWNER%20TOHID%20KHAN%20AND%20SAHIB%20KHAN♥️&image=https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
-
-<br>
-
-`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
-
-<br>
-
---------
-
-<p align="center">
-<a href="https://github.com/Tohidkhan6332/"><img title="Followers" src="https://img.shields.io/github/followers/Tohidkhan6332?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tohidkhan6332/TOHID_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tohidkhan6332/TOHID_MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tohidkhan6332/TOHID_MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tohidkhan6332/TOHID_MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tohidkhan6332/TOHID_MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Tohidkhan6332/TOHID_MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/Tohidkhan6332/TOHID_MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<p align="center">  
+  <a href="https://youtube.com/@tohidkhan_6332">
+    <img alt="TOHID" src="https://i.ibb.co/4ZSYvPTq/lordali.jpg">
+  </a>
 </p>
-<p align='center'>
+<p align="center">
+<a href="https://github.com/Tohidkhan6332?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Tohidkhan6332?label=Followers&style=social"></a>
+<a href="https://github.com/Tohidkhan6332/TOHID_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tohidkhan6332/TOHID_MD?&style=social"></a>
+<a href="https://github.com/Tohidkhan6332/TOHID_MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Tohidkhan6332/TOHID_MD?style=social"></a>
+<a href="https://github.com/Tohidkhan6332/TOHID_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tohidkhan6332/TOHID_MD?label=Watching&style=social"></a>
 </p>
-
------------
-----------
-
-<div align="center"><br> <img src="https://profile-counter.glitch.me/TOHID_MD/count.svg" /><br>TOHID_MD-V2</div>
-
-------------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
---------------
-
-`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
-
-----------------
-
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Tohidkhan6332/TOHID_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
-
-
-![forks](https://img.shields.io/github/forks/Tohidkhan6332/TOHID_MD?label=Forks&style=social)
-
-
-![stars](https://img.shields.io/github/stars/Tohidkhan6332/TOHID_MD?style=social)
-
-
-[![FORK TOHID_MD](https://img.shields.io/badge/FORK%20-TOHID%20_%20MD-white)](https://github.com/Tohidkhan6332/TOHID_MD/fork)
-
-`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
-
----------------
-
-</a>
-</p>
-
------------------
-
-🥂 `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🥂 **[Baileys](https://github.com/WhiskeySockets/Baileys)**
-
-------------------
-
-`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
-
------------------
-
-### <br> ❖ FOR SUPPORT ❖
-
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME TOHID✠KHAN࿐➺`**
-
--------
-
 <p align="center">
-  <a href="https://wa.me/+917849917350?text=*ʜɪɪ+ᴛᴏʜɪᴅ+ᴋʜᴀɴ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴛᴏʜɪᴅ_ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  
+----
 
------------    
+ <p align="center"><img src="https://profile-counter.glitch.me/{TOHID_MD}/count.svg" alt="TohidTech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Tohidkhan6332}/count.svg" /></p>
 
-`✠ IF YOU WANT MORE ABOUT TOHID_MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
+----
 
----------
+## Deployment Options
 
-<a href="https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+### **Fork & Star the Repository**
+   - Start by forking this repository and giving it a ⭐ to support Tohidkhan6332!
+     To set up the TOHID_MD quickly, first fork this repository:
+[![TOHID AI Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/Tohidkhan6332/TOHID_MD/fork)
 
------------
+### **PAIRING CODE QR CODE**
+   - Visit the bot site to generate a pairing code and get **SESSION ID.**
 
-`✠ IF YOU WANT MORE ABOUT TOHID_MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
+     [![TOHID_MD Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://tohid-ai-pair.onrender.com/)
 
-----------
+### DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
 
-<a href="https://youtube.com/@tohidkhan_6332?si=f1hxIhv2ijpalqGl"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href='https://tohid-khan-web.vercel.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
 
---------------
+### **Step-by-Step Deployment Guide**
 
-`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠
+**Option A: Deploy on Heroku**
+1. [Create an Account on Heroku](https://signup.heroku.com/) if you haven’t already.
+2. Click the button below to deploy directly on Heroku:
+   <br>
+   <a href='https://dashboard.heroku.com/new?template=https://github.com/Tohidkhan6332/TOHID_MD' target="_blank">
+      <img alt='Deploy on Heroku' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
+   </a>
 
-### <br> ❖ DEPLOY AND SESSION METHOD ❖
+**Option B: Deploy on Koyeb**
+1. [Sign Up on Koyeb](https://app.koyeb.com/auth/signup).
+3. Deploy your app using the button below:
+   <br>
+   <a href='https://github.com/Tohidkhan6332/TOHID_MD' target="_blank">
+      <img alt='Deploy on Koyeb' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white'/>
+   </a>
 
-<br>
+**Option C: Deploy on Railway**
+1. [Create an Account on Railway](https://railway.app/login) if you don’t have one.
+2. Click the button below to deploy using Railway:
+   <br>
+   <a href='https://railway.app/login' target="_blank">
+      <img alt='Deploy on Railway' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white'/>
+   </a>
 
-`✠ HOW TO DEPLOY TOHID_MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
+**Option D: Deploy on Toystack**
+1. [Create an Account on Toystack](https://toystack.ai) if you don’t have one.
+2. Click the button below to deploy using Toystack:
+   <br>
+   <a href='https://toystack.ai' target="_blank">
+      <img alt='Toystack' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=toystack&logoColor=white'/>
+   </a>
 
--------------
-
-<p align="center">
-   <a href="https://youtube.com/@tohidkhan_6332?si=f1hxIhv2ijpalqGl"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
-</p>
-
----------------
-
-
-### <br>    ❖ SESSION_ID ❖
-
-
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+9178499XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
-
-----------
-
-<p align="center">
-<a href="https://tohid-md-web-pair-qr.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
-<p/>
-
-----------
-
-----------
-
-<p align="center">
-<a href="https://tohid-md-web-pair-qr.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
-<p/>
-
-----------
- 
-### <br>   ❖ DEPLOY_HEROKU ❖
-
-`✠ IF YOU WANT TO DEPLOY TOHID_MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
-
-------------
- 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Tohidkhan6332/TOHID_MD)
-
-----------
-
-### <br>    ❖ DEPLOY_REPLIT ❖
-
-`✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY TOHID_MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
-
--------------
-
-<p align="left"><a href="https://repl.it/github/Tohidkhan6332/TOHID_MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
---------------
-
-### <br>   ❖ DEPLOY_KOYEB ❖
-
-`✠ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY TOHID_MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
-
----------
-
-<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-------------
-
-### <br>  ❖ DEPLOY_RAILWAY ❖
-
-`✠ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY TOHID_MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
-
---------
-
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
-
----------------
-
-### <br> ❖ MORE DEPLOY METHOD ❖
-
---------
-### <br>   ❖ DEPLOY_GLITCH ❖
-
-<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
-
---------
-
-### <br>   ❖ DEPLOY_CODESPACE ❖
-
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
-
---------
-
-### <br>   ❖ DEPLOY_RENDER ❖
-
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+**Option E: Deploy on Render**
+1. [Create an Account on Render](https://dashboard.render.com/register) if you don’t have one.
+2. Click the button below to deploy using Render:
+   <br>
+   <a href='https://dashboard.render.com' target="_blank">
+      <img alt='Deploy on Render' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/>
+   </a>
+   
+   **Option F: Deploy on Replit**
+1. [Create an Account on Replit](https://repl.it) if you don’t have one.
+2. Click the button below to deploy using Replit:
+   <br>
+   <a href='https://repl.it/github/Tohidkhan6332/TOHID_MD' target="_blank">
+      <img alt='Deploy on Replit' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white'/>
+   </a>
+   
+    **Option G: Deploy on Panel**
+ 1. First You Have to Sign up on discord using web or app then click below.
+2. [Sign Up On Panel](https://bot-hosting.net/?aff=1097457675723341836) if you don’t have Already.
+4. Click the button below to deploy using Panel:
+   <br>
+   <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank">
+      <img alt='Deploy in Panel' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white'/>
+   </a>
+   
+      **Tutorial For Panel**
+1. First You Have to Sign up on discord using web or app download from playstore.
+   <br>
+   <a href='https://youtube.com/@tohidkhan_6332' target="_blank">
+      <img alt='Deployment Tutorial' src='https://img.shields.io/badge/-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white'/>
+   </a>
+   
+---
 
 -----------
 
@@ -245,40 +144,60 @@ jobs:
 ```
 
 -----------
-
-`✠ HOW TO DEPLOY TOHID_MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
-
--------------
+### 🧑‍💻 Connect with the Developer
 
 <p align="center">
-   <a href="https://youtube.com/@tohidkhan_6332?si=f1hxIhv2ijpalqGl"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
+  <a href="https://github.com/Tohidkhan6332">
+    <img src="https://img.shields.io/badge/GitHub-Tohidkhan6332-blue?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://t.me/Tohid_mewati">
+    <img src="https://img.shields.io/badge/Telegram-@Tohid_mewati-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://wa.me/message/917849917350">
+    <img src="https://img.shields.io/badge/WhatsApp-Click%20Here%20to%20Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://youtube.com/@Tohidkhan_6332">
+    <img src="https://img.shields.io/badge/YouTube-@Tohidkhan_6332-000000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 </p>
+### 📄 License
+This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICENSE file for details.
 
--------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-------------
+## ⚠️ Disclaimer
 
-`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
+*TOHID_MD Bot is not affiliated with WhatsApp Inc. Misusing the bot could result in a temporary or permanent WhatsApp ban. Mr Tohid is not responsible for any bans or restrictions that may occur.*
 
----------
+---
 
-![IMG-20240330-WA0000](https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg)
+<p align="center">© Tohidkhan 2025</p>
 
--------------------
+  
+  
+com/LyHic3i.gif'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+- **Star ⭐ the repo if you like TOHID_MD.**
 
------------
+## Main Developer
+<a href="https://github.com/Tohidkhan6332"><img src="https://github.com/Tohidkhan6332.png" width="250" height="250" alt="Tohidkhan6332"/></a>
+  
+`TOHID-AI - By TohidTech`
 
-***⚠️THANKS FOR USING TOHID_MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE TOHID_MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANK YOU BY TOHID KHAN KING OF WHATSAPP♥️☣️🥂***
 
-------------
+<h2 align="center">  NOTICE
+</h2>
+   
+## 
+- Not For Sale
+- If A plugin's code is obfuscated , You don't have permission to edit it in any form 
+- Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
+- Have A Good Day
 
-![license](https://img.shields.io/github/license/Tohidkhan6332/TOHID_MD?color=green&label=License&style=plastic)
 
-----------
+  
+<p align="center">
+  
+[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T)
 
+--------
