@@ -1,23 +1,7 @@
 FROM node:lts-buster
-
-Install Git and other dependencies
-RUN apt-get update && \
-    apt-get install -y \
-    git \
-    ffmpeg \
-    imagemagick \
-    webp && \
-    apt-get upgrade -y && \
-    rm -rf /var/lib/apt/lists/*
-
-Copy package.json and install dependencies
-COPY package.json .
-RUN npm install && npm install -g qrcode-terminal pm2
-
-Copy application code
+RUN git clone https://github.com/JawadYTX/KHAN-MD/root/ikJawad
+WORKDIR /root/ikJawad
+RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
 COPY . .
-
-Expose port and set command
-EXPOSE 3000
-CMD ["pm2-runtime", "start", "index.js"]
-
+EXPOSE 9090
+CMD ["npm", "start"]
