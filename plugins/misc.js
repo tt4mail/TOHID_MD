@@ -14,53 +14,46 @@ cmd({
     filename: __filename
 },
 async (conn, mek, m, { from, reply, q, text, isCreator, fromMe }) => {
-    if (!isCreator) return reply('This command is only for the bot owner');
+    if (!isCreator) return reply('*📛 ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ᴛʜᴇ ʙᴏᴛ ᴏᴡɴᴇʀ*');
     try {
         const command = q?.toLowerCase();
 
         switch (command) {
-            case 'on':
+            case 'off':
                 await setAnti('gc', false);
                 await setAnti('dm', false);
-                return reply('_AntiDelete is now off for Group Chats and Direct Messages._');
+                return reply('*ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ɪs ɴᴏᴡ ᴏғғ ɢʀᴏᴜᴘ ᴄʜᴀᴛs ᴀɴᴅ ᴅɪʀᴇᴄᴛ ᴍᴇssᴀɢᴇs.*');
 
             case 'off gc':
                 await setAnti('gc', false);
-                return reply('_AntiDelete for Group Chats is now disabled._');
+                return reply('*ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ғᴏʀ ɢʀᴏᴜᴘ ᴄʜᴀᴛs ɪs ɴᴏᴡ ᴅɪsᴀʙʟᴇᴅ.*');
 
             case 'off dm':
                 await setAnti('dm', false);
-                return reply('_AntiDelete for Direct Messages is now disabled._');
+                return reply('*ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ғᴏʀ ᴅɪʀᴇᴄᴛ ᴍᴇssᴀɢᴇs ɪs ɴᴏᴡ ᴅɪsᴀʙʟᴇᴅ.*');
 
-            case 'set gc':
+            case 'gc':
                 const gcStatus = await getAnti('gc');
                 await setAnti('gc', !gcStatus);
-                return reply(`_AntiDelete for Group Chats ${!gcStatus ? 'enabled' : 'disabled'}._`);
+                return reply(`*ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ғᴏʀ ɢʀᴏᴜᴘ ᴄʜᴀᴛs ${!gcStatus ? 'ᴇɴᴀʙʟᴇᴅ' : 'ᴅɪsᴀʙʟᴇᴅ'}.*`);
 
-            case 'set dm':
+            case 'dm':
                 const dmStatus = await getAnti('dm');
                 await setAnti('dm', !dmStatus);
-                return reply(`_AntiDelete for Direct Messages ${!dmStatus ? 'enabled' : 'disabled'}._`);
+                return reply(`*ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ғᴏʀ ᴅɪʀᴇᴄᴛ ᴍᴇssᴀɢᴇs ${!dmStatus ? 'ᴇɴᴀʙʟᴇᴅ' : 'ᴅɪsᴀʙʟᴇᴅ'}.*`);
 
-            case 'set all':
+            case 'on':
                 await setAnti('gc', true);
                 await setAnti('dm', true);
-                return reply('_AntiDelete set for all chats._');
+                return reply('*ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ᴍᴇsɢ sᴇᴛ ғᴏʀ ᴀʟʟ ᴄʜᴀᴛs.*');
 
             case 'status':
                 const currentDmStatus = await getAnti('dm');
                 const currentGcStatus = await getAnti('gc');
-                return reply(`_AntiDelete Status_\n\n*DM AntiDelete:* ${currentDmStatus ? 'Enabled' : 'Disabled'}\n*Group Chat AntiDelete:* ${currentGcStatus ? 'Enabled' : 'Disabled'}`);
+                return reply(`*ᴀɴᴛɪᴅᴇʟᴇᴛᴇ sᴛᴀᴛᴜs*\n\n*ᴅᴍ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ:* ${currentDmStatus ? '*ᴇɴᴀʙʟᴇᴅ*' : '*ᴅɪsᴀʙʟᴇᴅ*'}\n*ɢʀᴏᴜᴘ ᴄʜᴀᴛ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ:* ${currentGcStatus ? '*ᴇɴᴀʙʟᴇᴅ*' : '*ᴅɪsᴀʙʟᴇᴅ*'}`);
 
             default:
-                const helpMessage = `❒ *ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ᴄᴏᴍᴍᴀɴᴅ ɢᴜɪᴅᴇ ❒*
-                *• .ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ᴏɴ* - _*ʀᴇꜱᴇᴛ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ꜰᴏʀ ᴀʟʟ ᴄʜᴀᴛꜱ (ᴅɪꜱᴀʙʟᴇᴅ ʙʏ ᴅᴇꜰᴀᴜʟᴛ)*_
-                *• .ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ᴏꜰꜰ ɢᴄ* - *_ᴅɪꜱᴀʙʟᴇ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ꜰᴏʀ ɢʀᴏᴜᴘ ᴄʜᴀᴛꜱ_*
-                *• .ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ᴏꜰꜰ ᴅᴍ* - *_ᴅɪꜱᴀʙʟᴇ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ꜰᴏʀ ᴅɪʀᴇᴄᴛ ᴍᴇꜱꜱᴀɢᴇꜱ_*
-                *• .ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ꜱᴇᴛ ɢᴄ*- *_ᴛᴏɢɢʟᴇ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ꜰᴏʀ ɢʀᴏᴜᴘ ᴄʜᴀᴛꜱ_*
-                *• .ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ꜱᴇᴛ ᴅᴍ*- *_ᴛᴏɢɢʟᴇ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ꜰᴏʀ ᴅɪʀᴇᴄᴛ ᴍᴇꜱꜱᴀɢᴇꜱ_*
-                *• .ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ꜱᴇᴛ ᴀʟʟ* - *_ᴇɴᴀʙʟᴇ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ꜰᴏʀ ᴀʟʟ ᴄʜᴀᴛꜱ_*
-                *• .ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ꜱᴛᴀᴛᴜꜱ* - *_ᴄʜᴇᴄᴋ ᴄᴜʀʀᴇɴᴛ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ꜱᴛᴀᴛᴜꜱ_*`;
+                const helpMessage = `*╭───━━━━───━━━━──┉┈⚆*\n*│ీ𝐀𝐍𝐓𝐈𝐃𝐄𝐋𝐄𝐓𝐄 𝐂𝐌𝐃 𝐆𝐔𝐈𝐃𝐄ీ*\n*│• ANTIDELETE ON:*\n*│☇ ᴇɴᴀʙʟᴇ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ᴀʟʟ ᴄʜᴀᴛs*\n*│• ANTIDELETE OFF:*\n*│☇ ᴅɪsᴀʙʟᴇᴅ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ᴀʟʟ ᴄʜᴀᴛs*\n*│• ANTIDELETE SET GC:*\n*│☇ ᴛᴏ ᴇɴᴀʙʟᴇ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ɢᴄ ᴄʜᴀᴛ*\n*│• ANTIDELETE SET DM:*\n*│☇ ᴛᴏ ᴇɴᴀʙʟᴇ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ᴅᴍ ᴄʜᴀᴛs*\n*│• ANTIDELETE OFF GC:*\n*│☇ ᴅɪsᴀʙʟᴇᴅ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ғᴏʀ ɢᴄ ᴄʜᴀᴛs*\n*│• ANTIDELETE OFF DM:*\n*│☇ ᴅɪsᴀʙʟᴇᴅ ᴀɴᴛɪᴅᴇʟᴇᴛᴇ ғᴏʀ ᴘᴍ ᴍᴇsɢ*\n*┗───━━━━───━━━━──┉┈⚆*`;
 
                 return reply(helpMessage);
         }
@@ -71,59 +64,3 @@ async (conn, mek, m, { from, reply, q, text, isCreator, fromMe }) => {
 });
 
 
-cmd({
-    pattern: "vv",
-    alias: ['retrive', '🔥'],
-    desc: "Fetch and resend a ViewOnce message content (image/video).",
-    category: "misc",
-    use: '<query>',
-    filename: __filename
-},
-async (conn, mek, m, { from, reply }) => {
-    try {
-        const quotedMessage = m.msg.contextInfo.quotedMessage; // Get quoted message
-
-        if (quotedMessage && quotedMessage.viewOnceMessageV2) {
-            const quot = quotedMessage.viewOnceMessageV2;
-            if (quot.message.imageMessage) {
-                let cap = quot.message.imageMessage.caption;
-                let anu = await conn.downloadAndSaveMediaMessage(quot.message.imageMessage);
-                return conn.sendMessage(from, { image: { url: anu }, caption: cap }, { quoted: mek });
-            }
-            if (quot.message.videoMessage) {
-                let cap = quot.message.videoMessage.caption;
-                let anu = await conn.downloadAndSaveMediaMessage(quot.message.videoMessage);
-                return conn.sendMessage(from, { video: { url: anu }, caption: cap }, { quoted: mek });
-            }
-            if (quot.message.audioMessage) {
-                let anu = await conn.downloadAndSaveMediaMessage(quot.message.audioMessage);
-                return conn.sendMessage(from, { audio: { url: anu } }, { quoted: mek });
-            }
-        }
-
-        // If there is no quoted message or it's not a ViewOnce message
-        if (!m.quoted) return reply("Please reply to a ViewOnce message.");
-        if (m.quoted.mtype === "viewOnceMessage") {
-            if (m.quoted.message.imageMessage) {
-                let cap = m.quoted.message.imageMessage.caption;
-                let anu = await conn.downloadAndSaveMediaMessage(m.quoted.message.imageMessage);
-                return conn.sendMessage(from, { image: { url: anu }, caption: cap }, { quoted: mek });
-            }
-            else if (m.quoted.message.videoMessage) {
-                let cap = m.quoted.message.videoMessage.caption;
-                let anu = await conn.downloadAndSaveMediaMessage(m.quoted.message.videoMessage);
-                return conn.sendMessage(from, { video: { url: anu }, caption: cap }, { quoted: mek });
-            }
-        } else if (m.quoted.message.audioMessage) {
-            let anu = await conn.downloadAndSaveMediaMessage(m.quoted.message.audioMessage);
-            return conn.sendMessage(from, { audio: { url: anu } }, { quoted: mek });
-        } else {
-            return reply("This is not a ViewOnce message.");
-        }
-    } catch (e) {
-        console.log("Error:", e);
-        reply("An error occurred while fetching the ViewOnce message.");
-    }
-});
-
-// if you want use the codes give me credit on your channel and repo in this file and my all files 
