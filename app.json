@@ -1,7 +1,7 @@
 {
   "name": "TOHID_MD",
-  "description": "Javascript WhatsApp bot made by TOHID KHAN",
-  "logo": "https://i.ibb.co/4ZSYvPTq/lordali.jpg",
+  "description": "Javascript WhatsApp bot made by TOHID KHN",
+  "logo": "https://i.ibb.co/LdsCGP4M/lordali.jpg",
   "keywords": ["TOHID_MD"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝕄ℝ 𝕋𝕆ℍ𝕀𝔻"
+      "value": "𓆩ု᪳𝐓𝐎𝐇𝐈𝐃_𝐌𝐃ှ᪳𓆪"
     }, 
       
     "PREFIX": {
@@ -79,21 +79,21 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS JUST NOW TOHID_MD*"
+      "value": "*SEEN YOUR STATUS JUST NOW TOHID_MD 🍒*"
    
      }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "TOHID_MD"
+      "value": "𓆩ု᪳𝐓𝐎𝐇𝐈𝐃_𝐌𝐃ှ᪳𓆪"
 
       }, 
     
     "ALIVE_IMG": {
       "description": "put here the bot Menu url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/4ZSYvPTq/lordali.jpg" 
+      "value": "https://i.ibb.co/LdsCGP4M/lordali.jpg" 
       },
 
     "DELETE_LINK": {
@@ -102,7 +102,7 @@
       "value": "false"
     }, 
     
-    "ANTI_LINK_KICK": {
+    "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": false,
       "value": "false"
